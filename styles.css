@@ -1,0 +1,16 @@
+.form-control::placeholder {
+    font-family: 'Courier New', Courier, monospace; /* Specify monospace font */
+  }
+
+.btn-outline-dark {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+/* PANG8
+.login-page {
+  background-image: url(Login.jpg);
+  background-size: cover;
+  background-position: auto;
+
+}
+*/
